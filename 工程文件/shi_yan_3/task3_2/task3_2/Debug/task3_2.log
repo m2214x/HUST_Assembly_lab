@@ -1,0 +1,5 @@
+﻿  func_of_c.cpp
+E:\2023_1st\hui_bian\experiments\shi_yan_3\task3_2\task3_2\func_of_c.cpp(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\2023_1st\hui_bian\experiments\shi_yan_3\task3_2\task3_2\func_of_c.cpp(40,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+LINK : warning LNK4098: 默认库“libcmt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  task3_2.vcxproj -> E:\2023_1st\hui_bian\experiments\shi_yan_3\task3_2\Debug\task3_2.exe

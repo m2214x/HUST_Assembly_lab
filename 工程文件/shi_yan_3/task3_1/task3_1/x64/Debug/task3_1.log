@@ -1,0 +1,4 @@
+﻿  Assembling task3_1_func.asm...
+task3_1_func.asm(1): error A2008: syntax error : .
+task3_1_func.asm(2): error A2008: syntax error : .
+D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml64.exe /c /nologo /Zi /Fo"x64\Debug\task3_1_func.obj" /W3 /errorReport:prompt  /Tatask3_1_func.asm”已退出，返回代码为 1。
