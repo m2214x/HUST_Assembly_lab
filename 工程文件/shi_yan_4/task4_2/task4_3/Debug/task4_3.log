@@ -1,0 +1,191 @@
+﻿  task4_3.asm
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(2,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(2,2): error C3873: “0x3001”: 不允许将此字符作为标识符的第一个字符
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(2,2): error C2059: 语法错误:“user-defined literal”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(3,2): error C3873: “0x3001”: 不允许将此字符作为标识符的第一个字符
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(3,2): error C2059: 语法错误:“user-defined literal”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(4,2): error C3873: “0x3001”: 不允许将此字符作为标识符的第一个字符
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(4,2): error C2059: 语法错误:“user-defined literal”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(5,2): error C3873: “0x3001”: 不允许将此字符作为标识符的第一个字符
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(5,2): error C2059: 语法错误:“user-defined literal”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(6,2): error C3873: “0x3001”: 不允许将此字符作为标识符的第一个字符
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(6,2): error C2059: 语法错误:“user-defined literal”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(7,2): error C3873: “0x3001”: 不允许将此字符作为标识符的第一个字符
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(7,2): error C2059: 语法错误:“user-defined literal”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(8,2): error C3873: “0x3001”: 不允许将此字符作为标识符的第一个字符
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(8,2): error C2059: 语法错误:“user-defined literal”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(13,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(13,2): error C2146: 语法错误: 缺少“;”(在标识符“printf”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(13,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(13,21): error C2146: 语法错误: 缺少“;”(在标识符“sbyte”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(14,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(14,2): error C2146: 语法错误: 缺少“;”(在标识符“scanf”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(14,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(14,16): error C2086: “int ptr”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(13): message : 参见“ptr”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(14,20): error C2146: 语法错误: 缺少“;”(在标识符“sbyte”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(15,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(14,28): error C2086: “int vararg”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(13): message : 参见“vararg”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(15,2): error C2146: 语法错误: 缺少“;”(在标识符“putchar”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,2): error C2146: 语法错误: 缺少“;”(在标识符“VirtualProtect”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,23): error C2086: “int dword”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(12): message : 参见“dword”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,30): error C2059: 语法错误:“:”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,31): error C2086: “int dword”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(12): message : 参见“dword”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,38): error C2059: 语法错误:“:”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,39): error C2086: “int dword”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(12): message : 参见“dword”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,46): error C2059: 语法错误:“:”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(17,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(16,47): error C2086: “int dword”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(12): message : 参见“dword”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(17,2): error C2146: 语法错误: 缺少“;”(在标识符“includelib”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(24,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(24,2): error C2146: 语法错误: 缺少“;”(在标识符“SAMPLES”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(33,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(34,7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(34,2): error C2146: 语法错误: 缺少“;”(在标识符“LOWF”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(38,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(38,2): error C2146: 语法错误: 缺少“;”(在标识符“LowBias”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(42,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(42,2): error C2146: 语法错误: 缺少“;”(在标识符“INPUT”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(43,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(43,3): error C2146: 语法错误: 缺少“;”(在标识符“SAMPLES”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(44,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(43,36): error C2086: “int mid”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(42): message : 参见“mid”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(44,3): error C2146: 语法错误: 缺少“;”(在标识符“SAMPLES”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(45,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(45,3): error C2146: 语法错误: 缺少“;”(在标识符“SAMPLES”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(46,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(45,30): error C2086: “int low”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(44): message : 参见“low”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(46,3): error C2146: 语法错误: 缺少“;”(在标识符“SAMPLES”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(47,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(48,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(48,2): error C2146: 语法错误: 缺少“;”(在标识符“SizeOfSamples”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(50,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(50,12): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(50,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(50,9): error C2146: 语法错误: 缺少“;”(在标识符“db”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(51,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(51,15): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(51,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(51,12): error C2146: 语法错误: 缺少“;”(在标识符“db”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(52,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(52,2): error C2146: 语法错误: 缺少“;”(在标识符“names”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(57,7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(57,2): error C2146: 语法错误: 缺少“;”(在标识符“len1”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(64,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(64,2): error C2146: 语法错误: 缺少“;”(在标识符“op”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(67,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(66,16): error C2086: “int 标志位”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(56): message : 参见“标志位”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(68,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(68,2): error C2146: 语法错误: 缺少“;”(在标识符“PrintForString”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(69,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(69,2): error C2146: 语法错误: 缺少“;”(在标识符“PrintForStruct”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(69,20): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(70,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(70,2): error C2146: 语法错误: 缺少“;”(在标识符“Welcome”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(70,13): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(71,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(71,2): error C2146: 语法错误: 缺少“;”(在标识符“Check”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(71,11): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(72,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(72,2): error C2146: 语法错误: 缺少“;”(在标识符“Correct”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(72,13): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(73,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(73,2): error C2146: 语法错误: 缺少“;”(在标识符“Wrong”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(73,11): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(74,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(74,2): error C2146: 语法错误: 缺少“;”(在标识符“MyEnd”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(74,11): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(75,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(75,2): error C2146: 语法错误: 缺少“;”(在标识符“ScanfForString”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(76,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(77,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(77,2): error C2146: 语法错误: 缺少“;”(在标识符“machine_code”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(78,19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(78,2): error C2146: 语法错误: 缺少“;”(在标识符“machine_code_len”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(84,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(84,2): error C2146: 语法错误: 缺少“;”(在标识符“functable”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(88,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(89,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(88,14): error C2146: 语法错误: 缺少“;”(在标识符“求解字符串长度”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(89,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(89,22): error C2086: “int dword”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(12): message : 参见“dword”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(89,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(89,32): error C2059: 语法错误:“:”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(91,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(89,33): error C2086: “int dword”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(12): message : 参见“dword”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(90,3): error C2146: 语法错误: 缺少“;”(在标识符“pushad”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(94,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(94,7): error C2146: 语法错误: 缺少“;”(在标识符“byte”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(99,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(99,7): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(106,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(105,14): error C2146: 语法错误: 缺少“;”(在标识符“打印MIDF”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(106,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(106,23): error C2086: “int dword”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(12): message : 参见“dword”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(106,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(106,34): error C2059: 语法错误:“:”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(107,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(106,35): error C2086: “int dword”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(12): message : 参见“dword”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(107,2): error C2146: 语法错误: 缺少“;”(在标识符“local”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(107,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(107,12): error C2086: “int dword”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(12): message : 参见“dword”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(108,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(108,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(108,34): error C2146: 语法错误: 缺少“;”(在标识符“即bias”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(111,7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(111,2): error C2146: 语法错误: 缺少“;”(在标识符“idiv”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(114,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(114,2): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(114,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(114,30): error C2059: 语法错误:“,”
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(117,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(117,2): error C2086: “int cmp”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(94): message : 参见“cmp”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(117,6): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(120,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(120,2): error C2146: 语法错误: 缺少“;”(在标识符“invoke”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(126,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(126,2): error C2146: 语法错误: 缺少“;”(在标识符“PrintMid”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(128,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(128,14): error C2146: 语法错误: 缺少“;”(在标识符“用于配合子程序5实现”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(132,12): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(132,3): error C2086: “int cmp”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(94): message : 参见“cmp”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(132,7): error C2146: 语法错误: 缺少“;”(在标识符“byte”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(139,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(138,7): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(144,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(143,14): error C2146: 语法错误: 缺少“;”(在标识符“选择模式”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(146,11): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(148,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(148,10): error C2146: 语法错误: 缺少“;”(在标识符“scanf”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(153,11): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(156,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(156,3): error C2086: “int cmp”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(94): message : 参见“cmp”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(156,7): error C2146: 语法错误: 缺少“;”(在标识符“op”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(165,13): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(169,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(168,8): error C2146: 语法错误: 缺少“;”(在标识符“Display”的前面)
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(169,11): error C2015: 常量中的字符太多
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(174,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(173,3): error C2086: “int call”: 重定义
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(168): message : 参见“call”的声明
+E:\2023_1st\hui_bian\experiments\shi_yan_4\task4_2\task4_3\task4_3.asm(174,3): fatal  error C1003: 错误计数超过 100；正在停止编译

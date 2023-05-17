@@ -1,0 +1,64 @@
+﻿  Assembling 4_2.asm...
+4_2.asm(6): error A2008: syntax error : .
+4_2.asm(7): error A2008: syntax error : .
+4_2.asm(105): error A2008: syntax error : .
+4_2.asm(110): error A2070: invalid instruction operands
+4_2.asm(114): error A2008: syntax error : putchar
+4_2.asm(119): error A2070: invalid instruction operands
+4_2.asm(132): error A2008: syntax error : scanf
+4_2.asm(133): error A2008: syntax error : scanf
+4_2.asm(156): error A2008: syntax error : invoke
+4_2.asm(168): error A2008: syntax error : pushad
+4_2.asm(173): error A2008: syntax error : VirtualProtect
+4_2.asm(185): error A2008: syntax error : popad
+4_2.asm(282): error A2008: syntax error : printf
+4_2.asm(283): error A2008: syntax error : printf
+4_2.asm(284): error A2008: syntax error : printf
+4_2.asm(285): error A2008: syntax error : printf
+4_2.asm(286): error A2008: syntax error : printf
+4_2.asm(295): error A2008: syntax error : printf
+4_2.asm(297): error A2008: syntax error : scanf
+4_2.asm(305): error A2008: syntax error : printf
+4_2.asm(318): error A2024: invalid operand size for instruction
+4_2.asm(331): error A2008: syntax error : calculate
+4_2.asm(345): error A2024: invalid operand size for instruction
+4_2.asm(348): error A2024: invalid operand size for instruction
+4_2.asm(355): error A2008: syntax error : invoke
+4_2.asm(356): warning A6001: no return from procedure
+4_2.asm(135): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(135): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(136): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(136): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(214): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(215): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(216): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(217): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(218): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(219): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(220): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(223): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(224): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(234): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(235): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(236): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(237): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(238): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(239): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(240): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(243): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(244): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(254): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(255): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(256): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(257): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(258): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(259): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(260): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(263): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(264): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(334): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(337): error A2229: cannot use labels and 32-bit addressing in the same expression
+4_2.asm(158): warning A6004: procedure argument or local not referenced : c
+4_2.asm(274): warning A6004: procedure argument or local not referenced : c
+4_2.asm(356): warning A6004: procedure argument or local not referenced : c
+D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml64.exe /c /nologo /Zi /Fo"x64\Debug\4_2.obj" /W3 /errorReport:prompt  /Ta4_2.asm”已退出，返回代码为 1。
