@@ -1,0 +1,25 @@
+﻿  源.cpp
+E:\2023_1st\hui_bian\experiments\shi_yan_1\shiyan_1_4\cpp_1_4\源.cpp(11,9): error C2084: 函数“Result::Result(void)”已有主体
+E:\2023_1st\hui_bian\experiments\shi_yan_1\shiyan_1_4\cpp_1_4\源.cpp(9): message : 参见“{ctor}”的前一个定义
+E:\2023_1st\hui_bian\experiments\shi_yan_1\shiyan_1_4\cpp_1_4\源.cpp(12,19): error C2679: 二元“=”: 没有找到接受“std::string *”类型的右操作数的运算符(或没有可接受的转换)
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(3304,32): message : 可能是“std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)”
+          with
+          [
+              _Elem=char
+          ]
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(3296,32): message : 或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )”
+          with
+          [
+              _Elem=char
+          ]
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(3244,32): message : 或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(3169,32): message : 或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)”
+          with
+          [
+              _Elem=char
+          ]
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(3054,32): message : 或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept(<expr>)”
+E:\2023_1st\hui_bian\experiments\shi_yan_1\shiyan_1_4\cpp_1_4\源.cpp(12,19): message : 尝试匹配参数列表“(std::string, std::string *)”时
+E:\2023_1st\hui_bian\experiments\shi_yan_1\shiyan_1_4\cpp_1_4\源.cpp(22,3): error C2065: “x”: 未声明的标识符
+E:\2023_1st\hui_bian\experiments\shi_yan_1\shiyan_1_4\cpp_1_4\源.cpp(23,3): error C2065: “x”: 未声明的标识符
+E:\2023_1st\hui_bian\experiments\shi_yan_1\shiyan_1_4\cpp_1_4\源.cpp(24,3): error C2065: “x”: 未声明的标识符
